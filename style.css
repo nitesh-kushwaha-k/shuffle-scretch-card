@@ -1,0 +1,163 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #F7F7F7;
+  display: flex;
+  justify-content: center;
+}
+
+.main-container {
+  padding: 24px 16px;
+  text-align: center;
+}
+
+h2.main-heading {
+  border-left: 4px solid #ff4460;
+  padding: 8px 32px;
+  margin-bottom: 42px;
+  display: inline-block;
+  font-size: 24px;
+}
+
+h3 {
+  font-weight: bold;
+  margin-bottom: 12px;
+  color:#490B3E;
+}
+
+.scratch-container1 {
+  width: 300px;
+  height: 100px;
+  background: #F82C85;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.scratch-container2 {
+  width: 300px;
+  height: 100px;
+  background: #FDD037;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.scratch-container3 {
+  width: 300px;
+  height: 100px;
+  background: #E65C4F;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+
+.scratch-container4 {
+  width: 300px;
+  height: 100px;
+  background: #84A6D3;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+
+.scratch-container5 {
+  width: 300px;
+  height: 100px;
+  background: #98DAD9;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+
+.scratch-container6 {
+  width: 300px;
+  height: 100px;
+  background: #CCD5AE;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+
+.scratch-container7 {
+  width: 300px;
+  height: 100px;
+  background: #C858BA;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+
+.scratch-container8 {
+  width: 300px;
+  height: 100px;
+  background: #C0B5C0;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.scratch-container9 {
+  width: 300px;
+  height: 100px;
+  background: #75E2FF;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+
+.scratch-container10 {
+  width: 300px;
+  height: 100px;
+  background: #C1DF6D;
+  border-radius: 10px;
+  margin: 20px auto;
+  position: relative;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.code {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 6px;
+  color: #000;
+  z-index: 1;
+}
+
+canvas {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
